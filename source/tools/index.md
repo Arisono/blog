@@ -4,23 +4,23 @@ date: 2016-10-20 11:42:59
 ### 在线工具
 
 
-- [Lantern【免费翻墙工具】](https://github.com/getlantern/forum):a:
+- [Lantern【免费翻墙工具】](https://github.com/getlantern/forum)
 - [tool-在线工具](http://tool.lu/c/developer)
 - [atool-Http在线测试](http://www.atool.org/httptest.php)
 - [sojson-JSON在线解析](http://www.sojson.com/)
 - [parser-JSON在线解析](http://json.parser.online.fr/)
 - [百度api调试](http://apistore.baidu.com/astore/toolshttpproxy?apiId=usi-xQ&isAworks=1)
-- [猿工具【颜色】](http://www.yuangongju.com/color):a:
-- [阿里图标【免费的图标下载】](http://iconfont.cn/repositories):a:
+- [猿工具【颜色】](http://www.yuangongju.com/color)
+- [阿里图标【免费的图标下载】](http://iconfont.cn/repositories)
 - [easyicon图标](http://www.easyicon.net/)
 - [google镜像【翻墙】](http://www.itechzero.com/google-mirror-sites-collect.html)
 - [老D博客-google镜像【翻墙】](http://laod.cn/hosts)
-- [Html5兼容性查询](http://caniuse.com/#search=date):m:
+- [Html5兼容性查询](http://caniuse.com/#search=date)
 - [中国传统色彩](http://color.uisdc.com/)
 - [iconpng---图标](http://www.iconpng.com/)
 - [众果搜---配色](http://www.zhongguosou.com/computer_question_tools/color_standard_web.html)
-- [softartstudio【Android Shapes Generator】](http://shapes.softartstudio.com/):m:
-- [chahuo【++在线加密解密++】](http://encode.chahuo.com/):a:(**2016-09-27**)
+- [softartstudio【Android Shapes Generator】](http://shapes.softartstudio.com/)
+- [chahuo【++在线加密解密++】](http://encode.chahuo.com/)(**2016-09-27**)
 
 
 

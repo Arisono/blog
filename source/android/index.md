@@ -15,9 +15,10 @@ date: 2016-10-18 17:55:01
 
 ###  代码库
      
-     Android代码查询平台备案 9分资源区 ---虎贲军
-     
+
+- [github](https://github.com/)     
 - [安卓巴士](http://www.apkbus.com/forum-417-1.html)
+- [干货集中营](http://gank.io/2016/09/27)
 - [Arsenal](http://android-arsenal.com/  ) 
 - [AndroidLibraries](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android-Gems](http://www.android-gems.com/category )
